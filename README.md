@@ -49,6 +49,6 @@ Projeto criado com fins educacionais, onde foram aplicados:
 1. Clone ou baixe o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mega-menu-tipos.git
+git clone https://github.com/Erick-CamposDev/MEGA-MENU
 
 
